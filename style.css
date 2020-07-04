@@ -1,0 +1,9 @@
+p{
+    font-family: courier; 
+}
+
+body{
+    text-align: center;
+    border: 5px solid palevioletred;
+    padding: 30px;
+}
